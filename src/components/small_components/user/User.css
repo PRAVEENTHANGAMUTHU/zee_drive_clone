@@ -1,0 +1,12 @@
+.user-logo{
+    width: 1.5vw;
+}
+button{
+    position: relative;
+    top: 2px;
+    left: 2px;
+    padding: 4px;
+    border-bottom-left-radius: 5rem;
+    border-bottom-right-radius: 5rem;
+    border: white solid 1px;
+}

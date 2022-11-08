@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500&family=Quicksand&family=Signika+Negative&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+:root {
+  --main-color: #37296E;
+  --main-background: #F1F0F0;
+  --background: #FFFFFF;
+  --select-color: #0AFF00;
+  --upload-button: #8D7BD5;
+}
+
+/* Header Part */
+
+.header{
+  background-color: var(--main-color);
+  display: flex;
+  padding: 0.3rem;
+}
+
+.navbar{
+  position: relative;
+  left: 6vw;
+  top: 8px;
+}
+
+.searchbar{
+  position: relative;
+  left: 30vw;
+  top: 8px;
+}
+
+.zeedrivelogo{
+  position: relative;
+  left: 35vw;
+  
+}
+
+.user{
+  position: relative;
+  left: 20vw;
+  top: 4px;
+}

@@ -1,0 +1,17 @@
+.nav-list{
+    display: flex;
+    
+}
+
+li{
+    list-style: none;
+    margin-right: 1.3rem;
+}
+
+li>*{
+    text-decoration: none;
+    color:rgb(215, 219, 219);
+    font-weight: 500;
+    font-size: 12px;
+}
+
